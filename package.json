@@ -20,6 +20,6 @@
     "dependency-check": "^2.6.0",
     "istanbul": "^0.4.5",
     "standard": "^8.3.0",
-    "tape": "^4.6.0"
+    "tape": "^4.6.3"
   }
 }
